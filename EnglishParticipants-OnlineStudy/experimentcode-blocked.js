@@ -29,7 +29,7 @@ timeline.push({
   type: jsPsychSurveyMultiChoice,
   preamble: `
     <div style="text-align: center;">
-      <img src="resources/consentform.jpg" alt="Consent Form" style="max-width: 100%; height: auto;">
+      <embed src="resources/Consent_Online_Learning_Azar%20(1).pdf" type="application/pdf" width="100%" height="600" style="max-width: 100%;" />
     </div>
     <p>Please read the consent form above. You must agree in order to participate.</p>
   `,
