@@ -702,5 +702,13 @@ fetch(selectedCSV)
   })
   .catch(error => {
     console.error('Error loading or parsing CSV data:', error);
-    document.body.innerHTML = `<p>A critical error occurred while loading the experiment. Please contact the researcher.</p>`;
+    const isFileProtocol = window.location.protocol === 'file:';
+    const msg = isFileProtocol
+      ? `<p><strong>This experiment must be run through a local web server.</strong></p>
+         <p>Opening index.html directly (file://) does not work because the browser blocks loading the CSV data.</p>
+         <p>In a terminal, go to this folder and run:</p>
+         <pre>python3 -m http.server 8000</pre>
+         <p>Then open <a href="http://localhost:8000">http://localhost:8000</a> in your browser.</p>`
+      : `<p>A critical error occurred while loading the experiment. Please contact the researcher.</p>`;
+    document.body.innerHTML = msg;
   });

@@ -45,15 +45,15 @@
 <body onload="init();">
   <noscript>This task requires JavaScript.</noscript>
 
+  <div id="slides-container">
   <div class="slide" id="consent" >
-    <br>
     <br>
     <p>En este estudio verá varias palabras. Tendrá que responder si las palabras son reales o no, es decir, si pertenecen al idioma español o no. El estudio durará aproximadamente <span class='studyDuration'></span> minutos. Si quiere participar por favor lea la autorización y pulse el botón “estoy de acuerdo”. </p>
 
     <div style="font-size:15">
       <div class="cntr">
         <h1>RESEARCH INFORMED CONSENT FORM</h1>
-        <h2>Turkish Word Recognition Study (IRB-FY2025-10331)</h2>
+        <h2>Spanish Word Comprehension Study (Online) (IRB-FY2025-10331)</h2>
         INVESTIGATOR(S): Alec Marantz; Stefan Pophristic 
         <br>
 
@@ -61,12 +61,12 @@
         You are invited to participate in a research study. This form has information to help you decide whether or not you wish to participate - please review it carefully. Your participation is voluntary. Please ask any questions you have about the study or about this form before deciding to participate.
         
         <h3>PURPOSE OF THE STUDY</h3>
-        The purpose of this study is to test what statistical generalizations we use to process complex words in order to understand how the brain and mind stores and computes words in languages like Turkish.
+        The purpose of this study is to test what statistical generalizations we use to process complex words in order to understand how the brain and mind stores and computes words in languages like Spanish.
 
         <h3>ELIGIBILITY TO PARTICIPATE</h3>
-        You are eligible to participate in this study if you speak Turkish as a native speaker and are 18 years or older.
+        You are eligible to participate in this study if you speak Spanish as a native speaker and are 18 years or older.
         <br>
-        You should not participate if you learned Turkish as a second language. 
+        You should not participate if you learned Spanish as a second language. 
         <br>
         To determine if you are eligible, we will ask you to complete a questionnaire with your language background.
         
@@ -75,10 +75,11 @@
         If you agree to participate, you will be asked to:
         <ol>
         <li> Read through this consent form and click the button below to agree to participate in this study.</li>
-        <li> You will then be redirected to the instructions of the experiment. You will be shown various Turkish words and nonwords and be asked to judge whether they are real or non-real words via button presses. You will begin with a few practice rounds with feedback. This should take no more than a few minutes.</li>
-        <li> After the practice, you will proceed to the main task which will be identical to the practice, but without feedback. The task will last approximately 15 minutes.</li>
+        <li> You will then be redirected to the instructions of the experiment. You will be shown or will hear various Spanish words and be asked to judge whether they are real or non-real
+        words via button presses. You will begin with 4-10 practice rounds with feedback. This should take no more than a few minutes.</li>
+        <li> After the practice, you will proceed to the main task which will be identical to the practice, but without feedback. The task will last around 45 minutes, with at least 4 self-paced breaks.</li>
         <li>After completing the main task, you will receive a questionnaire to fill out about your language background.</li>
-        <li> Upon completing the questionnaire you will be redirected to Prolific. You will receive payment via the Prolific platform after the study is fully complete by all participants. </li>
+        <li>Upon completing the questionnaire you will be redirected to Prolific. You will receive payment via the Prolific platform after the study is fully complete by all participants.</li>
         </ol>
 
         <h3>RISKS OR DISCOMFORTS</h3>
@@ -92,7 +93,7 @@
         While there are no direct benefits to the participant, participants will be helping expand our knowledge of how words are processed in languages other than English and will learn more about the study of Neurolinguistics.
 
         <h3>COMPENSATION</h3> 
-        You will receive $5.00 (USD) via Prolific for your participation.
+        You will receive $11.25 (USD) via Prolific for your participation.
         
         <h3>VOLUNTARY PARTICIPATION</h3>
         Participating in this study is completely voluntary. You may choose not to take part in the study or to stop participating at any time, for any reason, without penalty or negative consequences.
@@ -110,7 +111,7 @@
 
         <h3>CONTACT INFORMATION</h3>
         
-        You are encouraged to ask questions at any time during this study. For information about the study, contact Özlem Öge-Daşdöğen at (212) 998-8387, zg2797@nyu.edu, Stefan Pophristic at (212) 998-7950, sp6961@nyu.edu, or their faculty sponsor, Alec Marantz at (212) 998-7950, ma988@nyu.edu.
+        You are encouraged to ask questions at any time during this study. For information about the study, contact Stefan Pophristic at (212) 998-7950, sp6961@nyu.edu, or their faculty sponsor, Alec Marantz at (212) 998-7950, ma988@nyu.edu.
         
         If you have questions about your rights as a research participant or if you believe you have been harmed from the research, please contact the NYU Human Research Protection Program at (212)998-4808 or ask.humansubjects@nyu.edu.
         
@@ -120,7 +121,6 @@
         <br>
            
     </div>
-    </div>
 
     <div class="cntr">
       <button id="consent_button" type="button" >I agree to participate in this research study.</button>
@@ -128,27 +128,27 @@
     </div>
   </div>
 
-  <div class="wrapper">
   <div class="slide" id="instructions_1" >
-    <div class="cntr">
-      <img src="images/nellab_logo.png" alt="NELLAB" style="width:100; margin:20px">
-    </div>
+    <!-- <div class="cntr">
+      <img src="images/nellab_logo.png" alt="NELLAB" style="width:100px; margin:20px">
+    </div> -->
 
-<!--     <p id="cocolab">Stanford ALPS Lab</p> -->
-      <p id="instruct-text"> Va a ver varias palabras en los próximos ~<span class='studyDuration'></span> minutos. <br> <br>
+      <p class="instruct-text"> Va a ver varias palabras en los próximos ~<span class='studyDuration'></span> minutos. <br> <br>
         Cuando vea cada palabra, lo más rápido y preciso como le sea posible decida si la palabra es: <br>
       </p>
-      <p id="instruct-text">
+      <div class="instruct-text">
         <ul>
-          <li> <b> Una palabra real </b></li>
+          <li> <b> Una palabra real </b>
           <p> Una palabra real en Español <br>
           <b> Pulse la tecla J</b> usando el dedo índice derecho </p>
-          <li> <b> Una palabra sin sentido </b> </li>
+          </li>
+          <li> <b> Una palabra sin sentido </b>
           <p> Cualquier palabra que no es una palabra real en Español (puede parecer una palabra real como “escuelo” o puede no parecer a ninguna palabra real como “macepero”) <br>
           <b> Pulse la tecla F</b> con el dedo índice izquierdo </p>
+          </li>
         </ul>
-    </p>
-    <p id="instruct-text">
+      </div>
+    <p class="instruct-text">
       Por favor coloque los dedos índices en las teclas en todo momento, y utilice la mano izquierda para la tecla F y la mano derecha para la tecla J. Es muy importante que intente responder lo más rápido y preciso que pueda. Por favor complete el experimento en una sesión (aproximadamente <span class='studyDuration'></span> minutos); no empiece el experimento si no tiene suficiente tiempo para completarlo. Tendrá seis pausas para descansar un poco. <br><br> </p>
 
     <div class="cntr">
@@ -158,7 +158,6 @@
       <br> <br>
     </div>
 
-  </div>
   </div>
 
   <div class="wrapper">
@@ -297,6 +296,8 @@
 
   </div>
   </div>
+
+  </div><!-- #slides-container -->
 
   <div class="progress">
     <span>Progreso:</span>
