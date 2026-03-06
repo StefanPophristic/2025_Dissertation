@@ -35,7 +35,7 @@ timeline.push({
   `,
   questions: [
     {
-      prompt: "I consent to participate in this study.",
+      prompt: "I consent to participa`te in this study.",
       name: "consent",
       options: ["Yes, I consent"],
       required: true
