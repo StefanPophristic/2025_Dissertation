@@ -1,0 +1,25 @@
+body {
+    background-color: #7f7f7f;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 16px;
+    padding: 2rem;
+}
+
+
+#jspsych-progressbar-container {
+    background-color:#7f7f7f !important;
+    border-bottom: 0px !important;
+}
+
+/* Keep content width aligned with the completion progress bar. */
+#jspsych-progressbar-outer {
+    width: min(50%, 720px) !important;
+}
+
+.jspsych-content {
+    width: min(50%, 720px) !important;
+    max-width: min(50%, 720px) !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}

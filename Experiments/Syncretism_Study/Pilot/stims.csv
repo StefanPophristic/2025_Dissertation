@@ -1,0 +1,757 @@
+﻿verb,verb_o,IC,English,real_violation_IC-500,lexicality,list,correct_response
+alegar,alego,ar,to make happy,0,W,1,j
+amar,amo,ar,to love,0,W,2,j
+bajar,bajo,ar,to lower,0,W,1,j
+borbollar,borbollo,ar,to bubble,0,W,2,j
+chiflar,chiflo,ar,to shistle,0,W,1,j
+churruscar,churrusco,ar,to crips/burn,0,W,2,j
+clorar,cloro,ar,to clorenate,0,W,1,j
+criminar,crimino,ar,to incriminate,0,W,2,j
+doblar,doblo,ar,to double,0,W,1,j
+domeñar,domeño,ar,to tame,0,W,2,j
+fichar,ficho,ar,to record/file,0,W,1,j
+fisionar,fisiono,ar,to fission,0,W,2,j
+graficar,grafico,ar,to sign,0,W,1,j
+guardar,guardo,ar,to save,0,W,2,j
+hastiar,hastío,ar,to bore,0,W,1,j
+hibernar,hiberno,ar,to hibernate,0,W,2,j
+jabonar,jabono,ar,to soap up,0,W,1,j
+juntar,junto,ar,to combine/jkoin,0,W,2,j
+lacerar,lacero,ar,to cut/lacerate,0,W,1,j
+litigar,litigo,ar,to litigate,0,W,2,j
+multar,multo,ar,to fine/penalize,0,W,1,j
+musitar,musito,ar,to murmur,0,W,2,j
+nominar,nomino,ar,to nominate,0,W,1,j
+nublar,nublo,ar,to cloud,0,W,2,j
+pausar,pauso,ar,to pause,0,W,1,j
+pensionar,pensiono,ar,to pension,0,W,2,j
+quebrantar,quebranto,ar,to break,0,W,1,j
+quejar,quejo,ar,to afflict,0,W,2,j
+rimar,rimo,ar,to rhyme,0,W,1,j
+rubricar,rubrico,ar,to mark/signal,0,W,2,j
+sancionar,sanciono,ar,to sanction,0,W,1,j
+signar,signo,ar,to sign,0,W,2,j
+torrar,torro,ar,to toast,0,W,1,j
+tremolar,tremolo,ar,to sway/flutter,0,W,2,j
+ubicar,ubico,ar,to position/be located,0,W,1,j
+untar,unto,ar,to spread,0,W,2,j
+valsar,valso,ar,to waltz,0,W,1,j
+ventilar,ventilo,ar,to ventilate,0,W,2,j
+zuzar,zuzo,ar,to incite,0,W,1,j
+pellizcar,pellizco,ar,to pinch,1.064,W,2,j
+mocar,moco,ar,to blow someones nose,1.175,W,1,j
+culminar,culmino,ar,to cluminate,1.184,W,2,j
+filmar,filmo,ar,to flim,1.184,W,1,j
+fulminar,fulmino,ar,to strike down,1.184,W,2,j
+patullar,patullo,ar,to stomp,1.212,W,1,j
+fulgurar,fulguro,ar,to fulgurate/glow,1.229,W,2,j
+quedar,quedo,ar,to stay,1.249,W,1,j
+blocar,bloco,ar,to block (sports),1.291,W,2,j
+parangonar,parangono,ar,to compare,1.308,W,1,j
+sangrar,sangro,ar,to bleed,1.308,W,2,j
+leudar,leudo,ar,to leaven,1.322,W,1,j
+silbar,silbo,ar,to whistle,1.329,W,2,j
+blasfemar,blasfemo,ar,to blaspheme,1.338,W,1,j
+femar,femo,ar,to fertilise with manure,1.338,W,2,j
+poblar,pueblo,ar,to populate,1.338,W,1,j
+hurtar,hurto,ar,to steal/shoplift,1.382,W,2,j
+cagar,cago,ar,to shit,1.435,W,1,j
+cuestionar,cuestiono,ar,to question,1.443,W,2,j
+cuidar,cuido,ar,to take care of,1.443,W,1,j
+fluorar,fluoro,ar,to flourinate,1.443,W,2,j
+frecuentar,frecuento,ar,to frequent,1.443,W,1,j
+ruinar,ruino,ar,to ruin,1.443,W,2,j
+pulimentar,pulimento,ar,to polish,1.449,W,1,j
+herrumbrar,herrumbro,ar,to rust,1.455,W,2,j
+driblar,driblo,ar,to dribble (sports),1.462,W,1,j
+piafar,piafo,ar,to stamp (an animal),1.463,W,2,j
+pialar,pialo,ar,to lasso,1.463,W,1,j
+fibrilar,fibrilo,ar,to fibrilate,1.467,W,2,j
+fufar,fufo,ar,to hiss,1.467,W,1,j
+pipar,pipo,ar,to smoke a pipe,1.467,W,2,j
+pipiar,pipío,ar,to chirp,1.467,W,1,j
+publicar,publico,ar,to publish,1.467,W,2,j
+publicitar,publicito,ar,to publicize,1.467,W,1,j
+bojar,bojo,ar,to circumnavigate,1.508,W,2,j
+cejar,cejo,ar,to forfeit,1.515,W,1,j
+vedar,vedo,ar,to ban/prohibit,1.515,W,2,j
+tiznar,tizno,ar,to soil with soot,1.516,W,1,j
+bufar,bufo,ar,to snort,1.524,W,2,j
+camuflar,camuflo,ar,to camouflage,1.524,W,1,j
+dopar,dopo,ar,to dope,1.524,W,2,j
+bogar,bogo,ar,to row,1.528,W,1,j
+hormigonar,hormigono,ar,to cover with concrete,1.529,W,2,j
+quietar,quieto,ar,to appease,1.538,W,1,j
+fisurar,fisuro,ar,to fissurate,1.553,W,2,j
+humanar,humano,ar,to humanize,1.57,W,1,j
+rumorar,rumoro,ar,to rumour,1.57,W,2,j
+viajar,viajo,ar,to travel,1.571,W,1,j
+turnar,turno,ar,to take turns,1.573,W,2,j
+paralelar,paralelo,ar,to make parralel,1.619,W,1,j
+ralbar,ralbo,ar,to till,1.619,W,2,j
+modular,modulo,ar,to modulate,1.643,W,1,j
+rielar,rielo,ar,to vibrate/tremble,1.643,W,2,j
+rotular,rotulo,ar,to entitle/lable/tag,1.643,W,1,j
+roturar,roturo,ar,to plough,1.643,W,2,j
+nivelar,nivelo,ar,to balance/level,1.67,W,1,j
+galopar,galopo,ar,to gallop,1.676,W,2,j
+mimar,mimo,ar,to pamper,1.71,W,1,j
+pavimentar,pavimento,ar,to pave,1.71,W,2,j
+pimplar,pimplo,ar,to drink to excess,1.71,W,1,j
+naufragar,naufrago,ar,to be shipwrecked,1.716,W,2,j
+mellar,mello,ar,to nick/dent,1.75,W,1,j
+horripilar,horripilo,ar,ho horrify,1.756,W,2,j
+burilar,burilo,ar,to engrave,1.766,W,1,j
+tiritar,tirito,ar,to shiver,1.766,W,2,j
+fastidiar,fastidio,ar,to annoy/ruin/dissapoint,1.774,W,1,j
+caducar,caduco,ar,to expire,1.813,W,2,j
+rasgar,rasgo,ar,to rend/scratch,1.837,W,1,j
+rasguñar,rasguño,ar,to scratch,1.837,W,2,j
+hojaldrar,hojaldro,ar,to make into puff pastry,1.883,W,1,j
+becar,beco,ar,to grant a stipend/scholarship,1.913,W,2,j
+churrascar,churrasco,ar,to fry,1.927,W,1,j
+custodiar,custodio,ar,to guard,1.927,W,2,j
+dotar,doto,ar,to endow/award,1.927,W,1,j
+duchar,ducho,ar,to shower,1.927,W,2,j
+juramentar,juramento,ar,to swear in,1.927,W,1,j
+barruntar,barrunto,ar,to forsee,1.939,W,2,j
+guiar,guío,ar,to guide,1.946,W,1,j
+guiñar,guiño,ar,to wink,1.946,W,2,j
+guinchar,guincho,ar,to pierce/prick,1.946,W,1,j
+guindar,guindo,ar,to hang up,1.946,W,2,j
+guisar,guiso,ar,to stew,1.946,W,1,j
+filtrar,filtro,ar,to filter,1.956,W,2,j
+voznar,vozno,ar,to croack,1.956,W,1,j
+monologar,monologo,ar,to monologue,2.027,W,2,j
+mamar,mamo,ar,to suckle,2.041,W,1,j
+vomitar,vomito,ar,to vomit,2.041,W,2,j
+granular,granulo,ar,to granulate,2.056,W,1,j
+pulular,pululo,ar,to teem/mill around,2.056,W,2,j
+ranurar,ranuro,ar,to make a groove,2.056,W,1,j
+duplicar,duplico,ar,to duplicate,2.112,W,2,j
+calumniar,calumnio,ar,to slander,2.121,W,1,j
+triunfar,triunfo,ar,to triumph,2.386,W,2,j
+pifiar,pifio,ar,to drop the ball,2.4210000000000003,W,1,j
+faenar,faeno,ar,to slaughter,2.643,W,2,j
+bailar,bailo,ar,to dance,2.68,W,1,j
+gangrenar,gangreno,ar,to gangene,2.7430000000000003,W,2,j
+vulnerar,vulnero,ar,to damage,3.016,W,1,j
+guionar,guiono,ar,to script,3.029,W,2,j
+mofar,mofo,ar,to taunt,3.067,W,1,j
+dudar,dudo,ar,to doubt,3.276,W,2,j
+candidatar,candidato,ar,to enroll as a candidate,3.596,W,1,j
+guillotinar,guillotino,ar,to guillotine,6.031000000000001,W,2,j
+caer,caigo,er,to fall,0,W,1,j
+haber,he,er,to have/hold,0,W,2,j
+hacer,hago,er,to do,0,W,1,j
+leer,leo,er,to read,0,W,2,j
+oler,huelo,er,to smell,0,W,1,j
+querer,quiero,er,to want,0,W,2,j
+roer,roigo,er,to gnaw/wear down,0,W,1,j
+ser,soy,er,to be,0,W,2,j
+ver,veo,er,to see,0,W,1,j
+joder,jodo,er,to fuck,0.434,W,2,j
+comer,como,er,to eat,0.617,W,1,j
+raer,raigo,er,to scrape (rare),0.619,W,2,j
+cocer,cuezo,er,to boil,0.691,W,1,j
+mover,muevo,er,to move,0.719,W,2,j
+tener,tengo,er,to have,0.764,W,1,j
+lamer,lamo,er,to lick,0.781,W,2,j
+heder,hiedo,er,to stink/reek,0.795,W,1,j
+doler,duelo,er,to hurt,0.844,W,2,j
+peer,peo,er,to breakwind/fart,0.855,W,1,j
+caber,quepo,er,to fit/enter,0.909,W,2,j
+yacer,yazgo,er,to lie/recline,1.323,W,1,j
+coger,cojo,er,to take/fuck,1.359,W,2,j
+beber,bebo,er,to drink,1.362,W,1,j
+valer,valgo,er,to be worth,1.478,W,2,j
+nacer,nazco,er,to be born,1.487,W,1,j
+barrer,barro,er,to sweep,1.547,W,2,j
+traer,traigo,er,to bring,1.642,W,1,j
+soler,suelo,er,to tend to,1.68,W,2,j
+correr,corro,er,to run,1.73,W,1,j
+tejer,tejo,er,to knit,1.742,W,2,j
+ceder,cedo,er,to cede,1.775,W,1,j
+llover,NA,er,to rain,1.811,W,2,j
+deber,debo,er,to ower,1.88,W,1,j
+moler,muelo,er,to grind/mill,2.008,W,2,j
+mulcer,mulzo,er,to soothe/caress,2.008,W,1,j
+mulger,muljo,er,to milk/extract,2.008,W,2,j
+vender,vendo,er,to sell,2.008,W,1,j
+arder,ardo,er,to burn,2.16,W,2,j
+pacer,pazco,er,to graze,2.198,W,1,j
+saber,sé,er,to know,2.249,W,2,j
+tender,tiendo,er,to tend to,2.331,W,1,j
+temer,temo,er,to fear/dread,2.337,W,2,j
+poder,puedo,er,to be able to,2.372,W,1,j
+romper,rompo,er,to break,2.393,W,2,j
+pender,pendo,er,to hang/dangle,2.422,W,1,j
+creer,creo,er,to believe,2.426,W,2,j
+toser,toso,er,to cough,2.653,W,1,j
+volver,vuelvo,er,to return,2.711,W,2,j
+carcomer,carcomo,er,to eat away,3.044,W,1,j
+tremer,tremo,er,to tremble,3.333,W,2,j
+vencer,venzo,er,to defeat,3.485,W,1,j
+sorber,sorbo,er,to sip/suck/absorb,3.575,W,2,j
+acceder,accedo,er,"to accede, agree",3.658,W,1,j
+demoler,demuelo,er,to demolish,3.719,W,2,j
+emulger,emuljo,er,to emulsify/milk out,3.719,W,1,j
+competer,competo,er,to correspond to,3.783,W,2,j
+torcer,tuerzo,er,to twist/bend/sprain,3.923,W,1,j
+morder,muerdo,er,to bite/nip/gmaw,4.052,W,2,j
+prender,prendo,er,to catch/arrest,4.088,W,1,j
+ejercer,ejerzo,er,to exercise/enforse,4.116,W,2,j
+verter,vierto,er,to pour/spill,4.286,W,1,j
+cerner,cierno,er,to sift,4.4,W,2,j
+emunger,emunjo,er,to blow ones nose,4.647,W,1,j
+empeller,empello,er,to push,4.661,W,2,j
+absceder,abscedo,er,to abscess,4.765,W,1,j
+atrever,atrevo,er,to embolden,4.795,W,2,j
+precaver,precavo,er,to prevent,4.807,W,1,j
+perder,pierdo,er,to lose,4.83,W,2,j
+conocer,conozco,er,to know,4.967,W,1,j
+proveer,proveo,er,to provide/stock/bestow,5.044,W,2,j
+proteger,protejo,er,to protect/defend,5.1,W,1,j
+ascender,asciendo,er,to ascend,5.176,W,2,j
+responder,respondo,er,to answer/reply,5.179,W,1,j
+poseer,poseo,er,to possess,5.265,W,2,j
+emerger,emerjo,er,to emerge,5.481,W,1,j
+esconder,escondo,er,to hide,5.551,W,2,j
+reveler,revelo,er,To separate which causes a disease in an organ,5.574,W,1,j
+satisfacer,satisfago,er,to satisfy,5.66,W,2,j
+evanescer,evanesco,er,to fade out,5.718,W,1,j
+esplender,esplendo,er,to shine/gleam,6.077,W,2,j
+absterger,absterjo,er,to cleanse,6.325,W,1,j
+deterger,deterjo,er,to cleanse/deterge,6.456,W,2,j
+fosforescer,fosforesco,er,to phosphoresce (ECER!!),8.391,W,1,j
+sobreseer,sobreseo,er,to stay/prolong,8.958,W,2,j
+hender,hiendo,er,to split/cleave apart,c,W,1,j
+abluir,abluyo,ir,to ablute/wash,0,W,2,j
+abolir,abolo,ir,to abolish,0,W,1,j
+abrir,abro,ir,to unlock,0,W,2,j
+agredir,agredo,ir,to assault,0,W,1,j
+aplaudir,aplaudo,ir,to applaud,0,W,2,j
+argüir,arguyo,ir,to argue,0,W,1,j
+arrepentir,arrepiento,ir,to regret,0,W,2,j
+asir,asgo,ir,to grab,0,W,1,j
+batir,bato,ir,to beat/pound repeatedly,0,W,2,j
+blandir,blando,ir,to brandish,0,W,1,j
+bullir,bullo,ir,to boil,0,W,2,j
+ceñir,ciño,ir,to adjust (clothing); to encircle,0,W,1,j
+colorir,NA,ir,to color,0,W,2,j
+crujir,crujo,ir,to creak/crack,0,W,1,j
+cubrir,cubro,ir,to cover,0,W,2,j
+delinquir,delinco,ir,to commit a crime,0,W,1,j
+derretir,derrito,ir,to melt,0,W,2,j
+derruir,derruyo,ir,to knock down,0,W,1,j
+diluir,diluyo,ir,to dilute,0,W,2,j
+dirigir,dirijo,ir,to direct,0,W,1,j
+dirimir,dirimo,ir,to resolve,0,W,2,j
+dormir,duermo,ir,to sleep,0,W,1,j
+embustir,embusto,ir,to lie/fib,0,W,2,j
+engullir,engullo,ir,to wolf/gulp down,0,W,1,j
+erguir,irgo,ir,to elevate/tower over,0,W,2,j
+escabullir,escabullo,ir,to sneak out,0,W,1,j
+escandir,escando,ir,to scan,0,W,2,j
+esculpir,esculpo,ir,to sculpt,0,W,1,j
+escupir,escupo,ir,to spit/cough up,0,W,2,j
+esparcir,esparzo,ir,to scatter,0,W,1,j
+estarcir,estarzo,ir,to stencil,0,W,2,j
+exigir,exijo,ir,to demand/exact/hold,0,W,1,j
+eximir,eximo,ir,to absolve/exempt,0,W,2,j
+existir,existo,ir,to exist,0,W,1,j
+fingir,finjo,ir,to pretend,0,W,2,j
+finir,fino,ir,to end,0,W,1,j
+fluir,fluyo,ir,to flow/pass,0,W,2,j
+fruir,fruyo,ir,to enjoy,0,W,1,j
+fundir,fundo,ir,to smelt/cast/fade,0,W,2,j
+fungir,funjo,ir,to act as/serve in a position,0,W,1,j
+fuñir,fuño,ir,to get oneself in a mess,0,W,2,j
+gemir,gimo,ir,to wail/moan,0,W,1,j
+heñir,hiño,ir,to knead,0,W,2,j
+herir,hiero,ir,to wound/injure,0,W,1,j
+hispir,hispo,ir,to make spongy/to swell,0,W,2,j
+huir,huyo,ir,to flee,0,W,1,j
+hundir,hundo,ir,to sink/engulr,0,W,2,j
+injerir,injiero,ir,to meddle/interfere,0,W,1,j
+marcir,marzo,ir,to wilt,0,W,2,j
+medir,mido,ir,to measure,0,W,1,j
+mentir,miento,ir,to lie,0,W,2,j
+morir,muero,ir,to die,0,W,1,j
+mugir,mujo,ir,to moo,0,W,2,j
+mullir,mullo,ir,to soften,0,W,1,j
+muñir,muño,ir,to arrange/dispose of a matter of business,0,W,2,j
+parir,paro,ir,to give birth,0,W,1,j
+pedir,pido,ir,to ask,0,W,2,j
+plañir,plaño,ir,to cry and groan,0,W,1,j
+protruir,protruyo,ir,to protrude,0,W,2,j
+pudrir,pudro,ir,to rot,0,W,1,j
+pulir,pulo,ir,to polish,0,W,2,j
+pungir,punjo,ir,to prick (rare),0,W,1,j
+punir,puno,ir,to punish,0,W,2,j
+reñir,riño,ir,to scold/fight,0,W,1,j
+requerir,requiero,ir,to require,0,W,2,j
+rostir,rosto,ir,to roast,0,W,1,j
+rugir,rujo,ir,to roar,0,W,2,j
+salir,salgo,ir,to go out/leave,0,W,1,j
+seguir,sigo,ir,to follow/continue on,0,W,2,j
+sentir,siento,ir,to feel,0,W,1,j
+subir,subo,ir,to go up/raise,0,W,2,j
+sumir,sumo,ir,to sumerge,0,W,1,j
+surgir,surjo,ir,to arise/appear,0,W,2,j
+surtir,surto,ir,to provide,0,W,1,j
+teñir,tiño,ir,to color/dye,0,W,2,j
+transgredir,transgredo,ir,to transgress,0,W,1,j
+uncir,unzo,ir,to yoke,0,W,2,j
+ungir,unjo,ir,to anoint,0,W,1,j
+unir,uno,ir,to unite,0,W,2,j
+urdir,urdo,ir,to scheme,0,W,1,j
+urgir,urjo,ir,to be urgent,0,W,2,j
+venir,vengo,ir,to come,0,W,1,j
+zaherir,zahiero,ir,to criticize severely,0,W,2,j
+zambullir,zambullo,ir,to plunge/dive,0,W,1,j
+zurcir,zurzo,ir,to darn/mend,0,W,2,j
+zurrir,zurro,ir,to whir,0,W,1,j
+balbucir,NA,ir,to stammer,0.223,W,2,j
+sufrir,sufro,ir,to suffer,0.283,W,1,j
+negligir,neglijo,ir,to neglect,0.498,W,2,j
+gañir,gaño,ir,to yelp/caw,0.578,W,1,j
+tullir,tullo,ir,to paralyze/cripple/maim,0.651,W,2,j
+embutir,embuto,ir,to cram/stuff,0.66,W,1,j
+vestir,visto,ir,to dress,0.721,W,2,j
+cumplir,cumplo,ir,to fulfill,0.725,W,1,j
+sacudir,sacudo,ir,"to shake off, nod, jolt",0.744,W,2,j
+tupir,tupo,ir,to pack tight/stuff,0.751,W,1,j
+fulgir,fuljo,ir,to shine/glow,0.788,W,2,j
+latir,lato,ir,to beat/throb/bark,0.797,W,1,j
+añadir,añado,ir,to augment/add,0.845,W,2,j
+aburrir,aburro,ir,to bore,0.848,W,1,j
+ludir,ludo,ir,to rub/scrape,0.854,W,2,j
+esgrimir,esgrimo,ir,to brandish (a weapon),0.893,W,1,j
+expandir,expando,ir,to expand,0.937,W,2,j
+suplir,suplo,ir,to substitute/supply,0.942,W,1,j
+zabullir,zabullo,ir,to submerge,0.967,W,2,j
+dividir,divido,ir,to divide,1.029,W,1,j
+vivir,vivo,ir,to live,1.029,W,2,j
+fruncir,frunzo,ir,to pucker,1.033,W,1,j
+regir,rijo,ir,to rule/govern,1.048,W,2,j
+frangir,franjo,ir,to split/divide,1.063,W,1,j
+henchir,hincho,ir,to swell/fill something,1.144,W,2,j
+curtir,curto,ir,to tan/cure,1.201,W,1,j
+asistir,asisto,ir,to attend,1.205,W,2,j
+partir,parto,ir,to divide/leave,1.208,W,1,j
+sumergir,sumerjo,ir,to submerge,1.212,W,2,j
+eluir,eluyo,ir,to elute,1.225,W,1,j
+redimir,redimo,ir,to redeem,1.226,W,2,j
+circuir,circuyo,ir,to surround,1.227,W,1,j
+decir,digo,ir,to say,1.247,W,2,j
+carpir,carpo,ir,to weed/hoe,1.279,W,1,j
+arrecir,NA,ir,to make something numb,1.306,W,2,j
+rendir,rindo,ir,to conquer/tire/exhaust/yield,1.306,W,1,j
+resarcir,resarzo,ir,to repay,1.306,W,2,j
+trasgredir,trasgredo,ir,to transgress,1.306,W,1,j
+cundir,cundo,ir,to fill a liquid,1.31,W,2,j
+imbuir,imbuyo,ir,to imbue,1.353,W,1,j
+nutrir,nutro,ir,to nourish,1.358,W,2,j
+engrupir,engrupo,ir,to fool/deceive/trick,1.364,W,1,j
+servir,sirvo,ir,to serve,1.389,W,2,j
+adurir,aduro,ir,to burn,1.403,W,1,j
+transigir,transijo,ir,to give in/cede,1.55,W,2,j
+disminuir,disminuyo,ir,to diminish,1.577,W,1,j
+embestir,embisto,ir,to charge (bullfighting); to attach,1.578,W,2,j
+estatuir,estatuyo,ir,to establish/ordain,1.622,W,1,j
+tundir,tundo,ir,to shear,1.672,W,2,j
+lucir,luzco,ir,to shine,1.679,W,1,j
+guarnir,guarno,ir,to garnish,1.847,W,2,j
+erigir,erijo,ir,to build/erect,1.932,W,1,j
+infringir,infrinjo,ir,to infringe,1.964,W,2,j
+bruñir,bruño,ir,to burnish,1.973,W,1,j
+gruñir,gruño,ir,to grunt/growl,1.973,W,2,j
+deglutir,degluto,ir,to swallow,2.012,W,1,j
+aturdir,aturdo,ir,to stun/daze,2.066,W,2,j
+derelinquir,derelinco,ir,to abandon/relquinquish,2.066,W,1,j
+preterir,pretiero,ir,to leave out/omit,2.083,W,2,j
+inteligir,intelijo,ir,to understand,2.134,W,1,j
+astriñir,astriño,ir,to constrict,2.137,W,2,j
+garantir,garanto,ir,to guarantee,2.185,W,1,j
+extrudir,extrudo,ir,to extrude,2.195,W,2,j
+empedernir,NA,ir,to harden,2.259,W,1,j
+intuir,intuyo,ir,to intuit,2.596,W,2,j
+abafar,abafo,ar,,8.684,NW,1,f
+adar,ado,ar,,0,NW,2,f
+dafar,dafo,ar,,4.426,NW,1,f
+anafar,anafo,ar,,7.181,NW,2,f
+gabar,gabo,ar,,2.795,NW,1,f
+anapar,anapo,ar,,5.96,NW,2,f
+blonar,blono,ar,,1.291,NW,1,f
+bririrar,bririro,ar,,8.728,NW,2,f
+deglar,deglo,ar,,0.761,NW,1,f
+sonefar,sonefo,ar,,1.083,NW,2,f
+febrar,febro,ar,,2.54,NW,1,f
+nidainar,nidaino,ar,,10.232,NW,2,f
+llajacar,llajaco,ar,,6.937,NW,1,f
+tualdar,tualdo,ar,,1.688,NW,2,f
+guairar,guairo,ar,,0.991,NW,1,f
+nibumnar,nibumno,ar,,7.942,NW,2,f
+nafocar,nafoco,ar,,5.509,NW,1,f
+jupcar,jupco,ar,,9.122,NW,2,f
+bavenar,baveno,ar,,2.292,NW,1,f
+gipifar,gipifo,ar,,2.4210000000000003,NW,2,f
+maftar,mafto,ar,,12.443,NW,1,f
+dudatar,dudato,ar,,7.744000000000001,NW,2,f
+josanar,josano,ar,,3.25,NW,1,f
+gutlar,gutlo,ar,,9.69,NW,2,f
+moisar,moiso,ar,,10.301,NW,1,f
+dutlar,dutlo,ar,,9.479,NW,2,f
+neullantar,neullanto,ar,,11.494,NW,1,f
+naijar,naijo,ar,,10.105999999999998,NW,2,f
+bipar,bipo,ar,,1.992,NW,1,f
+quiglentar,quiglento,ar,,10.323,NW,2,f
+dangainar,dangaino,ar,,8.823,NW,1,f
+neutlantar,neutlanto,ar,,9.659,NW,2,f
+danguenar,dangueno,ar,,10.008,NW,1,f
+clepomar,clepomo,ar,,5.292999999999999,NW,2,f
+udalar,udalo,ar,,6.087,NW,1,f
+utnar,utno,ar,,9.276,NW,2,f
+unasar,unaso,ar,,6.246,NW,1,f
+nanrilar,nanrilo,ar,,2.1,NW,2,f
+gugar,gugo,ar,,7.0760000000000005,NW,1,f
+peblopcar,peblopco,ar,,14.547000000000002,NW,2,f
+mebar,meb,ar,,3.4939999999999998,NW,1,f
+cutnanar,cutnano,ar,,10.666,NW,2,f
+fimlar,fimlo,ar,,8.048,NW,1,f
+lurdinar,lurdino,ar,,7.214,NW,2,f
+fitnar,fitno,ar,,8.836,NW,1,f
+hutninar,hutnino,ar,,9.276,NW,2,f
+guegar,guego,ar,,8.652000000000001,NW,1,f
+brorar,broro,ar,,2.658,NW,2,f
+naidar,naido,ar,,8.092,NW,1,f
+sunglar,sunglo,ar,,10.036,NW,2,f
+deidar,deido,ar,,8.035,NW,1,f
+sitnar,sitno,ar,,8.836,NW,2,f
+drerfemar,drerfemo,ar,,4.043,NW,1,f
+bepar,bepo,ar,,6.367,NW,2,f
+peglar,peglo,ar,,0.761,NW,1,f
+quotar,quoto,ar,,6.767,NW,2,f
+mafar,mafo,ar,,9.767,NW,1,f
+cointuinar,cointuino,ar,,4.987,NW,2,f
+moidar,moido,ar,,9.223,NW,1,f
+fliucar,fliuco,ar,,9.962,NW,2,f
+clenuintar,clenuinto,ar,,10.003,NW,1,f
+buicar,buico,ar,,10.707,NW,2,f
+chenuintar,chenuinto,ar,,9.563,NW,1,f
+luicar,luico,ar,,8.618,NW,2,f
+cliglar,cliglo,ar,,1.628,NW,1,f
+moifar,moifo,ar,,16.394,NW,2,f
+meilar,meilo,ar,,10.808,NW,1,f
+niblalar,niblalo,ar,,5.906999999999999,NW,2,f
+bupar,bupo,ar,,4.539,NW,1,f
+mepar,mepo,ar,,7.048,NW,2,f
+pefiar,pefio,ar,,5.832000000000001,NW,1,f
+putlasar,putlaso,ar,,7.552,NW,2,f
+pebiar,pebio,ar,,4.296,NW,1,f
+bevar,bevo,ar,,5.25,NW,2,f
+mevar,mevo,ar,,3.4939999999999998,NW,1,f
+befar,befo,ar,,8.333,NW,2,f
+mefar,mefo,ar,,7.333,NW,1,f
+dugar,dugo,ar,,4.784000000000001,NW,2,f
+cagoglar,cagoglo,ar,,6.078,NW,1,f
+vofar,vofo,ar,,5.15,NW,2,f
+nofa,nofo,ar,,3.067,NW,1,f
+vepar,vepo,ar,,6.367,NW,2,f
+guiicar,guiico,ar,,15.073999999999998,NW,1,f
+nilunar,niluno,ar,,3.995,NW,2,f
+zugacar,zugaco,ar,,8.866,NW,1,f
+gudolar,gudolo,ar,,9.035,NW,2,f
+deijar,deijo,ar,,11.67,NW,1,f
+titnar,titno,ar,,8.836,NW,2,f
+samanezar,samanezo,ar,,0,NW,1,f
+tuodar,tuodo,ar,,7.372,NW,2,f
+pogugar,pogugo,ar,,10.192,NW,1,f
+ruicar,ruico,ar,,8.618,NW,2,f
+sogugar,sogugo,ar,,8.691,NW,1,f
+pojucar,pojuco,ar,,4.651,NW,2,f
+hibemar,hibemo,ar,,1.756,NW,1,f
+jacocar,jacoco,ar,,5.433,NW,2,f
+mupar,mupo,ar,,4.539,NW,1,f
+mafedentar,mafedento,ar,,9.767,NW,2,f
+mucar,muco,ar,,3.738,NW,1,f
+neutlamar,neutlamo,ar,,9.659,NW,2,f
+mevar,mevo,ar,,3.494,NW,1,f
+neutlazar,neutlazo,ar,,9.659,NW,2,f
+lunalar,lunalo,ar,,8.185,NW,1,f
+vinatar,vinato,ar,,0,NW,2,f
+bansidiar,bansidio,ar,,0,NW,1,f
+paguvar,paguvo,ar,,3.487,NW,2,f
+ramlar,ramlo,ar,,4.876,NW,1,f
+panocar,panoco,ar,,1.175,NW,2,f
+fasdar,fasdo,ar,,2.9,NW,1,f
+vebar,vebo,ar,,5.25,NW,2,f
+roslar,roslo,ar,,2.25,NW,1,f
+maftodiar,maftodio,ar,,14.37,NW,2,f
+jozar,jozo,ar,,1.512,NW,1,f
+mabtodiar,mabtodio,ar,,9.407,NW,2,f
+jocar,joco,ar,,3.6710000000000003,NW,1,f
+vafrontar,vafronto,ar,,8.684,NW,2,f
+muiar,muio,ar,,5.67,NW,1,f
+geifar,geifo,ar,,9.783,NW,2,f
+quiar,quio,ar,,0,NW,1,f
+geijar,geijo,ar,,10.659999999999998,NW,2,f
+geirar,geiro,ar,,9.761,NW,1,f
+fibchar,fibcho,ar,,10.486,NW,2,f
+geilar,geilo,ar,,9.227,NW,1,f
+pototobar,pototobo,ar,,3.604,NW,2,f
+vafar,vafo,ar,,8.684,NW,1,f
+jodatar,jodato,ar,,6.532,NW,2,f
+lladusar,lladuso,ar,,1.396,NW,1,f
+mucucar,mucuco,ar,,8.926,NW,2,f
+mapunar,mapuno,ar,,6.58,NW,1,f
+dutlasar,dutlaso,ar,,9.479,NW,2,f
+calupcuar,calupcuo,ar,,10.388,NW,1,f
+tristmar,tristmo,ar,,8.295,NW,2,f
+mufiar,mufio,ar,,3.162,NW,1,f
+naicar,naico,ar,,10.105999999999998,NW,2,f
+boicar,boico,ar,,10.264,NW,1,f
+naalar,naalo,ar,,9.478,NW,2,f
+lurrerar,lurrero,ar,,10.484,NW,1,f
+fiaotar,fiaoto,ar,,16.262999999999998,NW,2,f
+pefar,pefo,ar,,5.832000000000001,NW,1,f
+nugar,nugo,ar,,1.968,NW,2,f
+vefar,vefo,ar,,8.333,NW,1,f
+gucar,guco,ar,,4.199,NW,2,f
+zuer,zuyo,er,,8.224,NW,1,f
+zajer,zajo,er,,8.112,NW,2,f
+narer,naro,er,,10.646,NW,1,f
+duer,duyo,er,,4.591000000000001,NW,2,f
+iter,ito,er,,1.177,NW,1,f
+jueder,juedo,er,,43.772000000000006,NW,2,f
+goer,goyo,er,,4.117,NW,1,f
+ber,bo,er,,0,NW,2,f
+rer,ro,er,,0,NW,1,f
+jeper,jepo,er,,17.948999999999995,NW,2,f
+sorer,soro,er,,1.739,NW,1,f
+nier,nío,er,,2.363,NW,2,f
+mucer,muco,er,,5.122,NW,1,f
+giver,givo,er,,16.869,NW,2,f
+loper,lopo,er,,14.03,NW,1,f
+gaber,gabo,er,,7.536,NW,2,f
+gefer,gefo,er,,19.845999999999997,NW,1,f
+zoter,zoto,er,,12.118,NW,2,f
+juer,juyo,er,,21.475,NW,1,f
+daper,dapo,er,,15.085000000000004,NW,2,f
+uader,uado,er,,23.28800000000001,NW,1,f
+cifer,cifo,er,,19.933999999999994,NW,2,f
+bifer,bifo,er,,18.898,NW,1,f
+garer,garo,er,,5.791999999999999,NW,2,f
+naler,nalo,er,,14.428,NW,1,f
+nadrer,nadro,er,,26.559000000000005,NW,2,f
+gluer,gluyo,er,,31.706,NW,1,f
+fojer,fojo,er,,2.89,NW,2,f
+cifler,ciflo,er,,34.33500000000001,NW,1,f
+beger,bejo,er,,11.02,NW,2,f
+tuder,tudo,er,,12.682,NW,1,f
+glofer,glofo,er,,35.01399999999999,NW,2,f
+fiber,fibo,er,,18.398,NW,1,f
+lofer,lofo,er,,17.325,NW,2,f
+glojer,glojo,er,,33.52899999999999,NW,1,f
+luler,lulo,er,,15.647,NW,2,f
+visder,visdo,er,,25.823,NW,1,f
+admer,admo,er,,25.459,NW,2,f
+bamer,bamo,er,,3.36,NW,1,f
+tader,tado,er,,6.848000000000001,NW,2,f
+tesler,teslo,er,,29.456,NW,1,f
+tofer,tofo,er,,10.433,NW,2,f
+tider,tido,er,,9.799,NW,1,f
+ruaper,ruapo,er,,39.339000000000006,NW,2,f
+puader,puado,er,,26.25100000000001,NW,1,f
+bluer,bluyo,er,,26.103,NW,2,f
+teder,tedo,er,,6.363,NW,1,f
+vosler,voslo,er,,26.552,NW,2,f
+tover,tovo,er,,8.927,NW,1,f
+cheper,chepo,er,,24.989,NW,2,f
+vesler,veslo,er,,33.595,NW,1,f
+borper,borpo,er,,16.174999999999997,NW,2,f
+admeder,admedo,er,,41.57,NW,1,f
+seloger,selogo,er,,44.22099999999999,NW,2,f
+agmeder,agmedo,er,,40.165,NW,1,f
+selocer,seloco,er,,39.80199999999999,NW,2,f
+talcer,talzo,er,,23.63,NW,1,f
+mosner,mosno,er,,20.233,NW,2,f
+glunder,glundo,er,,40.571000000000005,NW,1,f
+ejisner,ejisno,er,,29.386999999999997,NW,2,f
+vupter,vupto,er,,37.45700000000001,NW,1,f
+blunder,blundo,er,,34.968,NW,2,f
+selojer,selojo,er,,44.22099999999999,NW,1,f
+ejisler,ejislo,er,,36.117,NW,2,f
+seloler,selolo,er,,38.907,NW,1,f
+aflefer,aflefo,er,,36.409,NW,2,f
+trerajer,trerajo,er,,32.256,NW,1,f
+pesler,peslo,er,,29.859,NW,2,f
+milocer,miloco,er,,45.564,NW,1,f
+glodeer,glodeo,er,,38.232,NW,2,f
+flolefer,flolefo,er,,43.803,NW,1,f
+almander,almando,er,,40.15999999999998,NW,2,f
+respopter,respopto,er,,28.533,NW,1,f
+fireer,fireo,er,,23.651000000000003,NW,2,f
+emauder,emaudo,er,,33.27100000000001,NW,1,f
+estonser,estonso,er,,20.838999999999995,NW,2,f
+redeser,redeso,er,,25.139000000000003,NW,1,f
+patilmaner,patilmano,er,,48.552999999999976,NW,2,f
+escopter,escopto,er,,29.606,NW,1,f
+dedeler,dedelo,er,,30.612,NW,2,f
+enjinder,enjindo,er,,22.715,NW,1,f
+redezer,redezo,er,,25.139000000000003,NW,2,f
+fileer,fileo,er,,29.857,NW,1,f
+enjander,enjando,er,,24.209,NW,2,f
+naler,nalo,er,,14.428,NW,1,f
+afosir,afoso,ir,,30.878,NW,2,f
+afocir,afoco,ir,,30.878,NW,1,f
+etrir,etro,ir,,6.8740000000000006,NW,2,f
+allirir,alliro,ir,,24.066,NW,1,f
+alluerir,alluero,ir,,31.827000000000005,NW,2,f
+eflodir,eflodo,ir,,24.192,NW,1,f
+adroirir,adroiro,ir,,29.482,NW,2,f
+ofir,ofo,ir,,0.611,NW,1,f
+davir,davo,ir,,16.686000000000003,NW,2,f
+gnondir,gnondo,ir,,30.035000000000004,NW,1,f
+bugrir,bugro,ir,,13.673,NW,2,f
+pefir,pefo,ir,,5.061,NW,1,f
+pojosir,pojoso,ir,,41.767,NW,2,f
+llumir,llumo,ir,,18.069000000000003,NW,1,f
+mobrir,mobro,ir,,21.116,NW,2,f
+deliusiir,deliusio,ir,,31.84200000000001,NW,1,f
+deflerir,deflero,ir,,28.948,NW,2,f
+pofosir,pofoso,ir,,44.976,NW,1,f
+nuluir,nuluyo,ir,,20.959,NW,2,f
+dinavir,dinavo,ir,,35.288999999999994,NW,1,f
+riravir,riravo,ir,,29.720999999999997,NW,2,f
+fosmir,fosmo,ir,,24.903,NW,1,f
+miravir,miravo,ir,,28.029,NW,2,f
+enmublir,enmublo,ir,,26.421,NW,1,f
+vobrir,vobro,ir,,17.004,NW,2,f
+eshazuchir,eshazucho,ir,,37.13099999999999,NW,1,f
+ersuchir,ersucho,ir,,25.114,NW,2,f
+escipcir,escipco,ir,,26.47,NW,1,f
+ennuvir,ennuvo,ir,,20.266,NW,2,f
+espislir,espislo,ir,,24.27,NW,1,f
+ennubir,ennubo,ir,,20.266,NW,2,f
+exvamir,exvamo,ir,,23.617,NW,1,f
+elmamir,elmamo,ir,,24.32,NW,2,f
+elfastir,elfasto,ir,,30.713000000000005,NW,1,f
+bisgir,bisgo,ir,,16.551000000000002,NW,2,f
+genir,geno,ir,,2.619,NW,1,f
+risgir,risgo,ir,,21.293000000000003,NW,2,f
+firir,firo,ir,,5.618,NW,1,f
+fordir,fordo,ir,,12.791,NW,2,f
+jilir,jilo,ir,,7.579000000000001,NW,1,f
+numir,numo,ir,,11.025,NW,2,f
+zomir,zomo,ir,,2.68,NW,1,f
+zoñir,zoño,ir,,1.421,NW,2,f
+birir,biro,ir,,7.130999999999999,NW,1,f
+gegir,gejo,ir,,4.793,NW,2,f
+ruir,ruyo,ir,,0,NW,1,f
+duntir,dunto,ir,,12.219,NW,2,f
+emnamir,emnamo,ir,,26.442000000000004,NW,1,f
+relir,relo,ir,,0,NW,2,f
+mobir,mobo,ir,,19.117,NW,1,f
+melcir,melco,ir,,19.877,NW,2,f
+dovir,dovo,ir,,19.806000000000004,NW,1,f
+mumir,mumo,ir,,7.058,NW,2,f
+dobir,dobo,ir,,19.806000000000004,NW,1,f
+muvir,muvo,ir,,11.594,NW,2,f
+dafir,dafo,ir,,10.741,NW,1,f
+pojir,pojo,ir,,11.317,NW,2,f
+brabir,brabo,ir,,18.392,NW,1,f
+egmastir,egmasto,ir,,30.394000000000005,NW,2,f
+pifrir,pifro,ir,,21.772,NW,1,f
+milir,milo,ir,,11.381,NW,2,f
+dodrir,dodro,ir,,21.98,NW,1,f
+tumir,tumo,ir,,3.902,NW,2,f
+gebir,gebo,ir,,2.384,NW,1,f
+pefuenir,pefueno,ir,,35.056,NW,2,f
+sodrir,sodro,ir,,20.609,NW,1,f
+lunir,luno,ir,,5.942,NW,2,f
+ravir,ravo,ir,,13.218000000000002,NW,1,f
+sohuir,sohuyo,ir,,23.147,NW,2,f
+mectir,mecto,ir,,12.505,NW,1,f
+dumir,dumo,ir,,13.293999999999995,NW,2,f
+mibir,mibo,ir,,3.665,NW,1,f
+sosgir,sosgo,ir,,21.146,NW,2,f
+buptir,bupto,ir,,16.113,NW,1,f
+fepir,fepo,ir,,5.945,NW,2,f
+brabstredir,brabstredo,ir,,29.031,NW,1,f
+ipcir,ipso,ir,,19.475,NW,2,f
+upcir,upso,ir,,11.873,NW,1,f
+efir,efo,ir,,0.981,NW,2,f
+ugmir,ugmo,ir,,15.474,NW,1,f
+erlir,erlo,ir,,9.52,NW,2,f
+vobir,vobo,ir,,15.005,NW,1,f
+navetir,naveto,ir,,33.66,NW,2,f
+zilsullir,zilsullo,ir,,29.546,NW,1,f
+zutbir,zutbo,ir,,20.698,NW,2,f
+zognullir,zognullo,ir,,27.418,NW,1,f
+lasfucir,lasfuco,ir,,27.012000000000004,NW,2,f
+mifrir,mifro,ir,,20.179,NW,1,f
+fecir,feco,ir,,8.009,NW,2,f
+nafir,nafo,ir,,16.935,NW,1,f
+norir,noro,ir,,1.49,NW,2,f
+elsunir,elsuno,ir,,25.5,NW,1,f
+neslir,neslo,ir,,23.09,NW,2,f
+domplir,domplo,ir,,21.680000000000003,NW,1,f
+tazodir,tazodo,ir,,32.632,NW,2,f
+bubir,bubo,ir,,8.637,NW,1,f
+tadodir,tadodo,ir,,29.160999999999994,NW,2,f
+namir,namo,ir,,16.333000000000002,NW,1,f
+ojadir,ojado,ir,,15.833999999999998,NW,2,f
+aguglir,aguglo,ir,,21.350000000000005,NW,1,f
+livir,livo,ir,,1.755,NW,2,f
+esbrabir,esbrabo,ir,,23.172,NW,1,f
+erlendir,erlendo,ir,,27.659,NW,2,f
+fiplir,fiplo,ir,,13.944,NW,1,f
+navir,navo,ir,,22.288000000000004,NW,2,f
+pifadir,pifado,ir,,26.71,NW,1,f
+juvir,juvo,ir,,4.466,NW,2,f
+gnoncir,gnonco,ir,,26.471000000000004,NW,1,f
+fogir,fogo,ir,,16.419,NW,2,f
+frircir,frirco,ir,,18.222,NW,1,f
+sejir,sejo,ir,,2.948,NW,2,f
+ciptir,cipto,ir,,17.568,NW,1,f
+abipcir,abipco,ir,,27.551,NW,2,f
+mactir,macto,ir,,19.780999999999995,NW,1,f
+sutorlir,sutorlo,ir,,31.686,NW,2,f
+ehuir,ehuyo,ir,,9.837,NW,1,f
+denamir,denamo,ir,,33.075,NW,2,f
+cugmir,cugmo,ir,,17.89,NW,1,f
+fejir,fejo,ir,,9.325000000000001,NW,2,f
+cuctir,cucto,ir,,15.131,NW,1,f
+uliir,ulio,ir,,10.102,NW,2,f
+fengir,fengo,ir,,7.738999999999999,NW,1,f
+demarjir,demarjo,ir,,22.35,NW,2,f
+rildir,rildo,ir,,17.055,NW,1,f
+cesdir,cesdo,ir,,8.334999999999999,NW,2,f
+renarlir,demarjo,ir,,22.35,NW,1,f
+jitrir,jitro,ir,,17.321,NW,2,f
+vandir,vando,ir,,3.261,NW,1,f
+seslir,seslo,ir,,19.34,NW,2,f
+ajocir,ajoco,ir,,26.030000000000005,NW,1,f
+pralpigir,pralpigo,ir,,28.992,NW,2,f
+dislitiir,dislitio,ir,,32.82799999999999,NW,1,f
+erfostir,erfosto,ir,,37.52499999999999,NW,2,f
+sosmanuir,sosmanuyo,ir,,29.912000000000003,NW,1,f
+ruldir,ruldo,ir,,14.651,NW,2,f
+gumir,gumo,ir,,10.403,NW,1,f
+murdir,murdo,ir,,5.344,NW,2,f
+enavir,enavo,ir,,34.501,NW,1,f
+inclipcir,inclipso,ir,,25.474,NW,2,f
+llufir,llufo,ir,,13.145,NW,1,f
+chubir,chubo,ir,,4.171,NW,2,f
+relsutir,relsuto,ir,,31.551,NW,1,f
+amirmir,amirmo,ir,,25.130000000000003,NW,2,f
+depsunir,depsuno,ir,,26.212,NW,1,f
+clesetir,cleseto,ir,,20.972,NW,2,f
+relzutir,relzuto,ir,,31.551,NW,1,f
+dremetir,dremeto,ir,,15.742,NW,2,f
+llugir,llugo,ir,,8.932,NW,1,f
+repsutir,repsuto,ir,,29.884,NW,2,f
+clesenir,cleseno,ir,,14.758,NW,1,f
+iutiir,iutio,ir,,25.215,NW,2,f
