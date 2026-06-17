@@ -70,7 +70,7 @@ async function startExperiment() {
     };
 
     var Practice_Intro_page = {
-        type: jsPsychHtmlKeyboardResponse,
+        type: jsPsychHtmlButtonResponse,
         stimulus: `
         <div style="text-align: left; margin-bottom: 0; margin-top: -50px;">
         <p> Va a ver varias palabras en los próximos ~<span class='studyDuration'>${studyDurationMinutes}</span> minutos. <br> <br>
@@ -92,10 +92,9 @@ async function startExperiment() {
         </div>
 
         <div class="cntr" style="margin-top: -50px;">
-        <p>¡Empezaremos con unos ejemplos de práctica! <br> </p>
-            <p>Presione cualquier tecla para continuar.</p>
-        </div>
+        <p>¡Empezaremos con unos ejemplos de práctica!</p>
     `,
+    choices: ["Continuar"],
     };
 
     // Define slides that will be repeated over and over (fixation cross and blank screen)
@@ -163,14 +162,14 @@ async function startExperiment() {
                 const last_trial_val = jsPsych.data.get().last(1).values()[0].response;
                 const last_trial_correct = jsPsych.data.get().last(1).values()[0].correct;
                 if (last_trial_correct) {
-                    return "<div style='color: #3b7544;'>¡Correcto!</div>";
+                    return "<div style='color: #8ed499;'>¡Correcto!</div>";
                 } else if (!["f", "j"].includes(last_trial_val)) {
-                    return "<div style='color: #b53131;'> Por favor pulse la tecla 'j' o 'f' </div>";
+                    return "<div style='color: #9c4141;'> Por favor pulse la tecla 'j' o 'f' </div>";
                 } else {
-                    return "<div style='color: #b53131;'> Incorrecto. Inténtalo de nuevo.</div>";
+                    return "<div style='color: #9c4141;'> Incorrecto. Inténtalo de nuevo.</div>";
                 }
             },
-            choices: "NO_KEYS",
+            choices: "",
             trial_duration: 1500
         };
 
@@ -430,7 +429,7 @@ async function startExperiment() {
                 </div>
         </div>
         `,
-        button_label: "Continue",
+        button_label: "Continuar",
         on_load: function () {
             const form = document.getElementById("jspsych-survey-html-form");
             const errorText = document.querySelector(".err2");
@@ -498,10 +497,10 @@ async function startExperiment() {
         // on_finish: function (data) {
         //     console.log(data);
         // }
-        on_load: function() {
-            console.log(jsPsych.data);
-            jsPsych.data.get().localSave('csv', 'experiment_data.csv');
-        }
+        // on_load: function() {
+        //     console.log(jsPsych.data);
+        //     jsPsych.data.get().localSave('csv', 'experiment_data.csv');
+        // }
     };
 
     /*
