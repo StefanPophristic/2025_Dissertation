@@ -492,7 +492,7 @@ async function startExperiment() {
     */
     var end = {
         type: jsPsychHtmlButtonResponse,
-        stimulus: "<h2>FIN</h2><p>¡Gracias por haber participado! Su código de finalización es: SKFHDGLS</p>",
+        stimulus: "<h2>FIN</h2><p>¡Gracias por haber participado! Su código de finalización es: C7AFVUOH</p>",
         choices: [],
         // on_finish: function (data) {
         //     console.log(data);
